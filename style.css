@@ -277,3 +277,17 @@ section{
         object-fit: contain;
     }
 }
+@media (max-width: 570px){
+    .hero{
+        height: 100vh;
+    }
+    .hero-img{
+        height:400px;
+        width: 400px;
+        margin: 0 auto;
+    }
+    :root{
+        --big-font: 4rem;
+    }
+
+}
