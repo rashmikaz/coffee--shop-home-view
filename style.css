@@ -31,3 +31,8 @@ header{
     justify-content: space-between;
     transition: all.50s ease;
 }
+.logo img{
+    width: 100%;
+    height: auto;
+
+}
