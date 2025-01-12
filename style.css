@@ -170,3 +170,19 @@ section{
     transform: translateY(-5px);
     color: var(--main-color);
 }
+.scroll{
+    position: absolute;
+    top: 92%;
+    right: 7%;
+    transform: translateY(-50%);
+}
+
+.scroll a{
+    font-size: 16px;
+    color: var(--text-color-);
+}
+.scroll i{
+    font-size: 20px;
+    color: var(--text-color-);
+    margin-right: 6px;
+}
