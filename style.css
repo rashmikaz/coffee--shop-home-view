@@ -186,3 +186,16 @@ section{
     color: var(--text-color-);
     margin-right: 6px;
 }
+
+@media (max-width: 1770px) {
+    header{
+        padding: 22px 4%;
+    }
+    .icons{
+       padding:  0 4%
+    }
+    .scroll{
+        right: 4%;
+    }
+    
+}
