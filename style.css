@@ -199,3 +199,19 @@ section{
     }
     
 }
+@media (max-width: 1670px) {
+    :root{
+        --big-font: 5.5rem;
+        --p-font: 15px;
+    }
+
+}
+@media (max-width: 1370px){
+    .icons{
+        display: none;
+
+    }
+    section{
+        padding: 0 4%;
+    }
+}
