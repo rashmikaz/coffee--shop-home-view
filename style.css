@@ -50,3 +50,21 @@ header{
 .navlist a:hover{
     color: var(--main-color);
 }
+
+.nav-btn{
+    display: inline-block;
+    padding: 9px 24px;
+    background: transparent;
+    border: 2px solid var(--text-color-);
+    border-radius: 7px;
+    color: var(--text-color-);
+    font-size: 15px;
+    font-weight: 500;
+    transition: all .6s ease ;
+
+}
+.nav-btn:hover{
+    transform: translateY(-5px);
+    border: 2px solid var(--main-color);
+    color: var(--main-color);
+}
