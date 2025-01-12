@@ -215,3 +215,15 @@ section{
         padding: 0 4%;
     }
 }
+@media (max-width: 1150px){
+    :root{
+        --big-font: 4.6rem;
+    }
+    .price{
+        font-size: 20px;
+    }
+    .btn{
+        padding: 10px 23px;
+    }
+
+}
