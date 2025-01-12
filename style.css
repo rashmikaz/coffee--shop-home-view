@@ -36,3 +36,17 @@ header{
     height: auto;
 
 }
+.navlist{
+    display: flex;
+}
+.navlist a{
+    display: inline-block;
+    margin: 0 35px;
+    color: var(--text-color-);
+    font-size: var(--p-font);
+    transition: all .6s ease ;
+
+}
+.navlist a:hover{
+    color: var(--main-color);
+}
