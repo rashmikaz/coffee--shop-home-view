@@ -18,3 +18,5 @@ Technologies Used
 - HTML: For structuring the content and layout of the webpage.
 - CSS: For styling the website, including layouts, colors, fonts, and responsive design.
 - JavaScript: For interactivity and dynamic functionality.
+  
+Figma https://www.figma.com/design/K2wlhET4LbF3bJVBkqMyD9/coffee-shop?node-id=0-1&t=OfQOg17dsSDcES9i-1
