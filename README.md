@@ -20,3 +20,5 @@ Technologies Used
 - JavaScript: For interactivity and dynamic functionality.
   
 Figma https://www.figma.com/design/K2wlhET4LbF3bJVBkqMyD9/coffee-shop?node-id=0-1&t=OfQOg17dsSDcES9i-1
+
+<img width="1467" alt="Screenshot 2025-01-14 at 1 09 55 AM" src="https://github.com/user-attachments/assets/261b5b51-c234-47a9-9cc3-a19daab68011" />
